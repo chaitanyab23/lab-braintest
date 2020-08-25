@@ -34,7 +34,7 @@ public class PersonalityViewController extends HttpServlet {
 		
 		System.out.println(options);
 				
-		/* 
+		
 
 		request.setAttribute("message", message);
 		
@@ -53,7 +53,7 @@ public class PersonalityViewController extends HttpServlet {
 				rd.forward(request, response);
 			}
 		
-		}*/
+		}
 		}
 	}
 
